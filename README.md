@@ -1,6 +1,7 @@
 ### Oii! Eu sou a Kézia Alves
 
 - 🌱 Estudando HTML e CSS
+- 📫 Contate-me no email: keziaalsilvas@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div style="display: inline_block"><br>
